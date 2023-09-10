@@ -1,0 +1,11 @@
+body {
+    background-color: #fffbf7;
+   
+}
+
+
+button {
+    background-color: #025157;
+
+}
+/* Más reglas de estilo aquí */
